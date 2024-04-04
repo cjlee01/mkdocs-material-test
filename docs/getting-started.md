@@ -177,4 +177,4 @@ pip install -e mkdocs-material
   [GitHub]: https://github.com/squidfunk/mkdocs-material
 
 
-<iframe width="100%" height="480px src="https://squidfunk.github.io/mkdocs-material/getting-started/"></iframe>
+<iframe width="100%" height="480px" src="https://squidfunk.github.io/mkdocs-material/getting-started/"></iframe>
